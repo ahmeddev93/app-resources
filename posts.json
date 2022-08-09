@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "title": "G'day from Sydney",
+      "date": "August 2, 2019",
+      "views": 2687,
+      "rating": 4.4,
+      "image": "https://bitbucket.org/dmytrodanylyk/travel-blog-resources/raw/3436e16367c8ec2312a0644bebd2694d484eb047/images/sydney_image.jpg",
+      "author": {
+        "name": "Grayson Wells",
+        "avatar": "https://bitbucket.org/dmytrodanylyk/travel-blog-resources/raw/3436e16367c8ec2312a0644bebd2694d484eb047/avatars/avatar1.jpg"
+      },
+      "description": "Australia is one of the most popular travel destinations in the world."
+    },
+    
+    {
+      "title": "G'day from Thandiani Top",
+      "date": "August 2, 2021",
+      "views": 2687,
+      "rating": 4.8,
+      "image": "https://raw.githubusercontent.com/ahmeddev93/app-resources/main/thandiani.jpg",
+      "author": {
+        "name": "Ahmed Bashir",
+        "avatar": "https://raw.githubusercontent.com/ahmeddev93/app-resources/main/ahmed_avatar.jpeg"
+      },
+      "description": "Thandiani (literally meaning very cold) is a hill station in the Galyat area of Pakistan.Thandiani is characterized by excellent weather and lush greenery in the summer months, and snow-covered vistas and hills in the winter."
+    }
+  ]
+}
